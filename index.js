@@ -1,0 +1,1 @@
+console.log("lan 1 ne")
