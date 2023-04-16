@@ -1,1 +1,5 @@
 console.log("lan 1 ne")
+console.log("lan 2 ne")
+console.log("lan 3 ne")
+console.log("lan 4 ne")
+console.log("lan 5 ne")
